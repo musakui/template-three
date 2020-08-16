@@ -1,0 +1,18 @@
+{
+  "name": "template-three",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "repository": {},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.119.1"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.4"
+  }
+}
